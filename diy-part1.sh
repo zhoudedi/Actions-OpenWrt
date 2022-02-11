@@ -1,5 +1,6 @@
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
-git clone https://github.com/kenzok8/small-package package/small-package
+git clone https://github.com/kenzok8/small-package.git package/small-package
+git clone https://github.com/Lienol/openwrt-package.git package/small-package
 #!/bin/bash
 #
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
