@@ -1,7 +1,5 @@
-git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
-git clone https://github.com/kenzok8/small-package package/small-package
-git clone https://github.com/Lienol/openwrt-package package/openwrt-package
-git clone https://github.com/OpenWrt-Actions/OpenWrt-Packages package/OpenWrt-Packages
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/lienol
+echo "src-git ssrp https://github.com/fw876/helloworld.git" >> ./feeds.conf.default
 git clone https://github.com/OpenWrt-Actions/openwrt-package-lienol package/openwrt-package-lienol
 #!/bin/bash
 #
