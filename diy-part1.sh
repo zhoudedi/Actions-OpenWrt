@@ -1,6 +1,6 @@
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/lienol
 echo "src-git ssrp https://github.com/fw876/helloworld.git" >> ./feeds.conf.default
-git clone https://github.com/OpenWrt-Actions/openwrt-package-lienol package/openwrt-package-lienol
+#git clone https://github.com/OpenWrt-Actions/openwrt-package-lienol package/openwrt-package-lienol
 #!/bin/bash
 #
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
